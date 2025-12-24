@@ -1,0 +1,7 @@
+Ishu,0,0,0
+Aditi,1,0,2
+Riya,4,0,4
+Player2,0,2,1
+Player1,0,1,1
+ki,0,0,0
+ji,0,0,0
